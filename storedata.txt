@@ -1,0 +1,21 @@
+[BANK]
+[CUSTOMERS]
+||||||0.000000
+||||||0.000000
+||||||0.000000
+dep|123|istore|unj|897645|e@gmail.com|1.500000
+lan|456|lan|unj|98754|r@gmail.com|875431.390000
+||||||0.000000
+||||||0.000000
+||||||0.000000
+cal|134|cal|unj|c@gmail.com|48032|87654.980000
+[TRANSACTIONS]
+[BUYERS]
+lan|456|lan|unj|98754|r@gmail.com|875431.390000
+cal|134|cal|unj|c@gmail.com|48032|87654.980000
+[SELLERS]
+dep|123|istore|1.5
+[ITEMS]
+-1|-1|-1|-1|-1
+[TRANSACTIONS]
+0|0|0|1.5|PAID|Oct 19 15:49:29 2025
